@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.b4322138.css",
+    "main.js": "/assignment/static/js/main.b3765a91.js",
+    "static/js/453.d1ead18a.chunk.js": "/assignment/static/js/453.d1ead18a.chunk.js",
+    "static/media/Rectangle2.png": "/assignment/static/media/Rectangle2.dca88f76ed5feeea5c5f.png",
+    "static/media/Rectangle5.1.png": "/assignment/static/media/Rectangle5.1.0546c1b4f0505de5eac7.png",
+    "static/media/Rectangle5.2.png": "/assignment/static/media/Rectangle5.2.341067a2ba789339d4a0.png",
+    "static/media/Rectangle5.png": "/assignment/static/media/Rectangle5.1e389d09320a392a86e1.png",
+    "static/media/job.svg": "/assignment/static/media/job.35f34125520e01f0f32beb9ef13de0bd.svg",
+    "static/media/edu.svg": "/assignment/static/media/edu.b0361518ab69e1a3f0b7c96a35c362ce.svg",
+    "static/media/meet.svg": "/assignment/static/media/meet.903175c747e99e5839fcd5960e9ffcc3.svg",
+    "static/media/pen.svg": "/assignment/static/media/pen.650bf30e9e43ffd955d2d0cec73aca5e.svg",
+    "static/media/msg.svg": "/assignment/static/media/msg.3bc62af85ec39214f44c2aaca2e1ab0d.svg",
+    "static/media/threedots.svg": "/assignment/static/media/threedots.bca2e02235970bda136fb6768b25ab81.svg",
+    "index.html": "/assignment/index.html",
+    "static/media/magGlass.svg": "/assignment/static/media/magGlass.8bdeb033dbf97a73ecfd1a71f4d4ad68.svg",
+    "static/media/location.svg": "/assignment/static/media/location.1d208474875ea4d1ca5131081edb5b8d.svg",
+    "main.b4322138.css.map": "/assignment/static/css/main.b4322138.css.map",
+    "main.b3765a91.js.map": "/assignment/static/js/main.b3765a91.js.map",
+    "453.d1ead18a.chunk.js.map": "/assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4322138.css",
+    "static/js/main.b3765a91.js"
+  ]
+}
